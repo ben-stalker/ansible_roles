@@ -1,6 +1,6 @@
 ---
 - name: Windows Test Ping
-  hosts: all
+  hosts: windowstestservers
 
   tasks:
 
