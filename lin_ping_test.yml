@@ -1,0 +1,7 @@
+---
+- name: Ping linux server
+  gather_facts: false
+
+  tasks:
+    - name: Ping linux server
+      ping:
